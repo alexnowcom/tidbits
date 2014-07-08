@@ -4,8 +4,8 @@
 	/**
 	 *   Handles key=>value pairs to determine which have been added, changed or deleted.
 	 *   Returns object to use to write the SQL necessary. 
-     *   If $result->differences = 0 there's no differences between the datasets
-     *
+     	 *   If $result->differences = 0 there's no differences between the datasets
+     	 *
 	 * @access	public
 	 * @param	array	starting key=>value data
 	 * @param	array	desired key=>value data
